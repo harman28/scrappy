@@ -1,3 +1,4 @@
+#!/bin/sh
 *.gem
 *.rbc
 /.config
@@ -10,8 +11,9 @@
 /test/version_tmp/
 /tmp/
 
-# Used by dotenv library to load environment variables.
-# .env
+# Being used by dotenv library to load environment variables.
+environment/live.env
+environment/test.env
 
 ## Specific to RubyMotion:
 .dat*
