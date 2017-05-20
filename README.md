@@ -1,7 +1,7 @@
-# Scrappy-Doo
+# Scrappy
 SMS notifications for Google Calendar. So, old and annoying.
 
-![Scrappy Doo](scrappy-doo.jpg?raw=true "Puppy Power")
+![Scrappy](scrappy-doo.jpg?raw=true "Puppy Power")
 
 *[Image](https://www.flickr.com/photos/andertoons-cartoons/2970400962) available under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)*
 
